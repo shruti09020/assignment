@@ -1,5 +1,0 @@
-import random
-
-Random_int = random.randint(50,100)
-
-print(Random_int)y
