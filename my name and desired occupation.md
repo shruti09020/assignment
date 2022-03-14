@@ -1,2 +1,2 @@
-### SHRUTI SINGHANIA
-#### My desired occupation is Data Science.
+## SHRUTI SINGHANIA
+### My desired occupation is Data Science.
